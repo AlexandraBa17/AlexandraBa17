@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! Я Балаганова Александроа 👋
 
-<!--
-**AlexandraBa17/AlexandraBa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Развиваюсь в сфере системного анализа. Проектирую архитектуру решений, описываю требования к ПО и перекладываю бизнес-задачи на понятный технический язык.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Навыки и инструменты
+
+**Анализ и моделирование:**
+`BPMN` `UML` `Use Cases` `User Stories` `SRS / ТЗ`
+
+**Интеграции и данные:**
+`REST API` `JSON` `XML` `SQL` `PostgreSQL` `OpenAPI (Swagger)`
+
+**Инструменты:**
+`Enterprise Architect` `Draw.io` `PlantUML` `Postman` `Jira` `Confluence`
+
+---
+
+### 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandraBa17&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraBa17&layout=compact&theme=radial)
+
+---
+
+### 📬 Связаться со мной
+
+* **Telegram:** [@m3nsh3ch3mtr1](https://t.me/m3nsh3ch3mtr1)
+* **Email:** bbbalagan@mail.ru

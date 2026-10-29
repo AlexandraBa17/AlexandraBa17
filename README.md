@@ -7,13 +7,27 @@
 ### 🛠 Навыки и инструменты
 
 **Анализ и моделирование:**
-`BPMN` `UML` `Use Cases` `User Stories` `SRS / ТЗ`
+<p>
+  <img src="https://img.shields.io/badge/BPMN-2.0-blue?style=for-the-badge&logo=bpmn&logoColor=white" alt="BPMN" />
+  <img src="https://img.shields.io/badge/UML-diagrams-orange?style=for-the-badge" alt="UML" />
+  <img src="https://img.shields.io/badge/Use_Cases-documentation-green?style=for-the-badge" alt="Use Cases" />
+</p>
 
-**Интеграции и данные:**
-`REST API` `JSON` `XML` `SQL` `PostgreSQL` `OpenAPI (Swagger)`
+**Технологии и данные:**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=openapiinitiative&logoColor=black" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+</p>
 
 **Инструменты:**
-`Enterprise Architect` `Draw.io` `PlantUML` `Postman` `Jira` `Confluence`
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=draw.io&logoColor=white" alt="Draw.io" />
+</p>
 
 ---
 
